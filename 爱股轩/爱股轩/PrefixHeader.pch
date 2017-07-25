@@ -1,0 +1,32 @@
+//
+//  PrefixHeader.pch
+//  爱股轩
+//
+//  Created by imac on 2017/4/5.
+//  Copyright © 2017年 联系QQ:1084356436. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Custom.h"
+#import "UdStorage.h"
+#import "GradientLablel.h"
+#import "JKScreenAutoTool.h"
+#import "YPopView.h"
+//基类
+#import "BaseNavigationController.h"
+#import "BaseScrollView.h"
+#import "BaseView.h"
+#import "BaseTableView.h"
+#import "BaseTableViewCell.h"
+#import "LSTabBarViewController.h"
+//模型
+#import "LSGoodModel.h"
+
+
+//第三方
+#import "SDWebImage.h"
+#import "UIView+GradientColor.h"
+
+#endif /* PrefixHeader_pch */
